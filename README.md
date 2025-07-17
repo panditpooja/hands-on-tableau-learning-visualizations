@@ -8,6 +8,16 @@ This repository contains my personal learning notes and practice work as I explo
 
 ---
 
+## 📂 Repository Content Overview
+
+| Folder                          | Description                                           |
+|----------------------------------|-------------------------------------------------------|
+| `Tableau_First_Visualization`   | First visualization project with video game dataset. |
+| `Different Visualizations in Tableau` | Practice on various visualization types using Starbucks dataset. |
+| `Joins in Tableau`              | Projects exploring joins in Tableau.                 |
+
+---
+
 ## 📂 Folder Structure & Links
 
 ### 1️⃣ `Tableau_First_Visualization`
@@ -46,6 +56,20 @@ This repository contains my personal learning notes and practice work as I explo
 ✅ Publishing dashboards on Tableau Public  
 
 ---
+
+## 🛠️ Tools Used
+- Tableau Desktop  
+- Excel (for data preparation)  
+- Kaggle datasets  
+
+---
+
+## 📥 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/panditpooja/hands-on-tableau-learning-visualizations.git
+---
+
 ## ✍️ Author
 
 **Pooja Pandit**  
