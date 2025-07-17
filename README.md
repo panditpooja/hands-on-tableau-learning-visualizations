@@ -4,7 +4,7 @@
 
 This repository contains my personal learning notes and practice work as I explore Tableau for data visualization and analytics. It includes exercises, datasets, and beginner-to-intermediate dashboards I created while experimenting with Tableau features.
 
-⚠️ *This is **not a portfolio repository**. My polished Tableau projects and dashboards are in a separate repo: [Tableau Projects Portfolio](https://github.com/panditpooja/tableau-projects-portfolio).*  
+⚠️ *This is **not a portfolio repository**. My polished Tableau projects and dashboards are in a separate repo: [Tableau Projects Portfolio](https://github.com/panditpooja/hands-on-tableau-learning-visualizations).*  
 
 ---
 
@@ -68,6 +68,8 @@ This repository contains my personal learning notes and practice work as I explo
 1. Clone the repository:
    ```bash
    git clone https://github.com/panditpooja/hands-on-tableau-learning-visualizations.git
+2. Open .twb or .twbx files in Tableau Desktop.
+3. Explore and interact with the visualizations.
 
 ---
 
